@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+div{
+    display: flex;
+    background: url(img/691813.jpg);
+    background-position: 
+    opacity: 10px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    
+}
+a{
+    color: aliceblue;
+}
+a:hover{
+    color: brown;
+}
+.texto01{
+    color: aliceblue;
+    margin-top: 30%;
+    text-align: center;
+    text-indent: 10px;
+}
+.imagem{
+    width: 20%;
+    height: 20%;
+}
